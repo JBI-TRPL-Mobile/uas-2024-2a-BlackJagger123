@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:template_project/screen/signin.dart';
 
 class HomeLogin extends StatelessWidget {
   @override
@@ -38,6 +39,10 @@ class HomeLogin extends StatelessWidget {
                 children: [
                   ElevatedButton(
                     onPressed: () {
+                      Navigator.pushReplacement(
+                        context,
+                        MaterialPageRoute(builder: (context) => Signin()),
+                      );
                       // Tindakan saat tombol Sign In ditekan
                     },
                     style: ElevatedButton.styleFrom(
