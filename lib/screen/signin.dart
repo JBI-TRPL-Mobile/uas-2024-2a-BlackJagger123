@@ -1,4 +1,6 @@
 import 'package:flutter/material.dart';
+import 'package:template_project/screen/homescreen.dart';
+import 'package:template_project/screen/profile.dart';
 import 'package:template_project/screen/signup.dart';
 
 class Signin extends StatelessWidget {
@@ -57,6 +59,10 @@ class Signin extends StatelessWidget {
                     // Implement functionality for "Sign In"
                     // You can perform authentication using a backend service, navigate to a home page, etc.
                     print('"Sign In" button pressed');
+                    Navigator.pushReplacement(
+                      context,
+                      MaterialPageRoute(builder: (context) => HomeScreen()),
+                    );
                   },
                   style: ElevatedButton.styleFrom(
                     shape: RoundedRectangleBorder(
