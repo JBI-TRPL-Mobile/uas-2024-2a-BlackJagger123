@@ -39,10 +39,6 @@ class HomeLogin extends StatelessWidget {
                 children: [
                   ElevatedButton(
                     onPressed: () {
-                      Navigator.pushReplacement(
-                        context,
-                        MaterialPageRoute(builder: (context) => Signin()),
-                      );
                       // Tindakan saat tombol Sign In ditekan
                     },
                     style: ElevatedButton.styleFrom(
