@@ -1,18 +1,28 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/6dbs_zXm)
-[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-2e0aaae1b6195c2367325f4f02e2d04e9abb55f0b24a779b69b11b9e10269abc.svg)](https://classroom.github.com/online_ide?assignment_repo_id=17654355&assignment_repo_type=AssignmentRepo)
-# template_project
+Nama : Satrio Adi Baskoro
+> 
+NIM  : 362358302007
 
-A new Flutter project.
+### Tampilan Awal
+![image](https://github.com/user-attachments/assets/4352808e-7d25-41e4-afec-079bc54c6fbd)
 
-## Getting Started
+### Tampilan Sign In & Sign Up
+![image](https://github.com/user-attachments/assets/a306cecc-3b43-4626-b2a9-e6f64ebe96bf)
+![image](https://github.com/user-attachments/assets/0d9ee441-595b-4b93-8b9f-00006f6a4ff6)
 
-This project is a starting point for a Flutter application.
+### HomeScreen
+![image](https://github.com/user-attachments/assets/e42483ce-3bbd-46ac-a79b-594ea5702ebf)
 
-A few resources to get you started if this is your first Flutter project:
+### Message
+![image](https://github.com/user-attachments/assets/64a11b79-1fc1-4ccf-add4-1c51e167bfb0)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Profile
+![image](https://github.com/user-attachments/assets/5f117193-87b8-4c37-a6e8-59296bed33fb)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Log out
+![image](https://github.com/user-attachments/assets/fb8319f5-2306-465e-ad77-0b55d1f05337)
+
+
+
+
+
+
