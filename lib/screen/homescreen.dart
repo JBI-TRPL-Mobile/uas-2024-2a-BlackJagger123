@@ -8,7 +8,7 @@ class HomeScreen extends StatelessWidget {
       appBar: AppBar(
         backgroundColor: Colors.white,
         elevation: 0,
-        title: Text('Welcome Adit', style: TextStyle(color: Colors.black)),
+        title: Text('Welcome Satrio', style: TextStyle(color: Colors.black)),
         iconTheme: IconThemeData(color: Colors.black),
       ),
       body: SingleChildScrollView(
@@ -23,7 +23,7 @@ class HomeScreen extends StatelessWidget {
               SizedBox(height: 10),
               Text('Keep Moving Up', style: TextStyle(fontSize: 18)),
               SizedBox(height: 10),
-              Text('Your journey to success starts here. Let\'s grow together!', style: TextStyle(fontSize: 14, color: Colors.grey)),
+              Text('Your journey to success starts here.', style: TextStyle(fontSize: 14, color: Colors.grey)),
               SizedBox(height: 40),
               Row(
                 mainAxisAlignment: MainAxisAlignment.spaceBetween,
