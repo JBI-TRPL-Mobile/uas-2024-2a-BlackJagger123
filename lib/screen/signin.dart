@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:template_project/screen/signup.dart';
 
 class Signin extends StatelessWidget {
   @override
@@ -108,6 +109,10 @@ class Signin extends StatelessWidget {
                         // Implement functionality for "Sign Up Now"
                         // You can navigate to a sign-up page, etc.
                         print('"Sign Up Now" button pressed');
+                        Navigator.pushReplacement(
+                          context,
+                          MaterialPageRoute(builder: (context) => SignUpScreen()),
+                        );
                       },
                       child: const Text('Sign Up Now'),
                     ),
